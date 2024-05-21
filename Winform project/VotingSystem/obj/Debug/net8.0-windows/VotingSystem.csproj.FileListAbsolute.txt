@@ -1,0 +1,14 @@
+D:\drey\3rd year\Winform project\VotingSystem\bin\Debug\net8.0-windows\VotingSystem.exe
+D:\drey\3rd year\Winform project\VotingSystem\bin\Debug\net8.0-windows\VotingSystem.deps.json
+D:\drey\3rd year\Winform project\VotingSystem\bin\Debug\net8.0-windows\VotingSystem.runtimeconfig.json
+D:\drey\3rd year\Winform project\VotingSystem\bin\Debug\net8.0-windows\VotingSystem.dll
+D:\drey\3rd year\Winform project\VotingSystem\bin\Debug\net8.0-windows\VotingSystem.pdb
+D:\drey\3rd year\Winform project\VotingSystem\obj\Debug\net8.0-windows\VotingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\drey\3rd year\Winform project\VotingSystem\obj\Debug\net8.0-windows\VotingSystem.AssemblyInfoInputs.cache
+D:\drey\3rd year\Winform project\VotingSystem\obj\Debug\net8.0-windows\VotingSystem.AssemblyInfo.cs
+D:\drey\3rd year\Winform project\VotingSystem\obj\Debug\net8.0-windows\VotingSystem.csproj.CoreCompileInputs.cache
+D:\drey\3rd year\Winform project\VotingSystem\obj\Debug\net8.0-windows\VotingSystem.dll
+D:\drey\3rd year\Winform project\VotingSystem\obj\Debug\net8.0-windows\refint\VotingSystem.dll
+D:\drey\3rd year\Winform project\VotingSystem\obj\Debug\net8.0-windows\VotingSystem.pdb
+D:\drey\3rd year\Winform project\VotingSystem\obj\Debug\net8.0-windows\VotingSystem.genruntimeconfig.cache
+D:\drey\3rd year\Winform project\VotingSystem\obj\Debug\net8.0-windows\ref\VotingSystem.dll
